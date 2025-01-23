@@ -1,6 +1,6 @@
 # Real-Time Face Recognition and Attendance Monitoring System
 
-## In Collaboration with [@Indra-Fzl02](https://github.com/Indra-Fzl02), [@arkhsat](https://github.com/arkhsat), [@bennynnebenny](https://github.com/bennynnebenny)
+In Collaboration with [@Indra-Fzl02](https://github.com/Indra-Fzl02), [@arkhsat](https://github.com/arkhsat), [@bennynnebenny](https://github.com/bennynnebenny)
 
 ## Project Overview
 This project aims to develop an advanced real-time face recognition and attendance monitoring system for Binus University. By leveraging OpenCV, Firebase, and the `face_recognition` library, the system captures video frames, detects and recognizes individuals, and records attendance data seamlessly. The solution ensures accuracy, efficiency, and automation in managing attendance tracking for academic purposes.
