@@ -55,9 +55,9 @@ The system utilizes computer vision techniques to automate attendance tracking. 
 ## File Structure
 ```
 📦developing-attendance-monitoring-binus/
- ┣ 📜test_main.py       # Core face recognition script
- ┣ 📜schedule.py       # Core schedule management
- ┣ 📜test_main.py       # Core face recognition script
+ ┣ 📜test_main.py         # Core face recognition script
+ ┣ 📜schedule.py          # Core schedule management
+ ┣ 📜test_main.py         # Core face recognition script
  ┣ 📜AddDataToData.py     # Script to encode and store face data
  ┣ 📜EncodeFile.p         # Stored face encodings
  ┣ 📜serviceAccKey.json   # Firebase authentication credentials
